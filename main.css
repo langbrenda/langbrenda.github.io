@@ -1,0 +1,42 @@
+body {
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+}
+
+header {
+
+    background-color: #ffb6c1;
+    color: #778899;
+    text-align: center;
+    padding: 1rem;
+
+}
+
+.myFacePhoto {
+    margin-top: -150px;
+}
+
+h2 {
+    text-decoration-line: underline
+}
+
+Section {
+    margin-top: -150px;
+}
+
+header,
+nav,
+main,
+footer,
+body {
+    margin: 2rem auto;
+    max-width: 760px;
+}
+
+
+footer {
+    background-color: #ffb6c1;
+    color: #778899;
+    text-align: center;
+}
